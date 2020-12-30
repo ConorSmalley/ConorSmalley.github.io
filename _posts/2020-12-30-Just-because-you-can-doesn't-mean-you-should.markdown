@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Just because you can, doesn't mean you should"
-date:   2020-12-23 18:20:00 +0000
+date:   2020-12-30 15:20:00 +0000
 ---
 There are many things which are possible, but that doesn't mean you should do them for example `Dictionary<string, List(Tuple<Int32, string, Boolean>)>`
 
