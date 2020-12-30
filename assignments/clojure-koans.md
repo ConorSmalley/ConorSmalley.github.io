@@ -1,6 +1,7 @@
 ---
 layout: default
 permalink: /assignment/clojure-koans/
+title:
 ---
 # Clojure Koans
 
